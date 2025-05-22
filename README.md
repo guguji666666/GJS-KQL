@@ -1,4 +1,4 @@
-# GJS-KQL
+# KQL doc and tips
 
 [How to start with KQL?](https://www.youtube.com/watch?v=ocmfWMPqZPM)
 Certainly! Here's a structured list of **Microsoft KQL (Kusto Query Language) training documents and video resources** in English for your learning:
